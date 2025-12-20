@@ -82,9 +82,12 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ---
 
 ## 📊 GitHub Stats
-![Martian58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martian56&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Martian58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martian56&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martian56&theme=dark&hide_border=false)
+
+[GitHub Streak](https://streak-stats.demolab.com?user=martian56&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=martian56&theme=github-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martian56&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
