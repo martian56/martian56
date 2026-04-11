@@ -161,13 +161,12 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 
 # 📊 GitHub Stats
 
-## 🔥 Streak Stats
+
 ![](https://streak-stats.demolab.com?user=martian56&theme=dark&hide_border=true)
 
-## 📈 Contribution Graph
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=martian56&theme=github-dark&hide_border=true)
 
-## 📌 Profile Summary Cards
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martian56&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martian56&theme=github_dark)
