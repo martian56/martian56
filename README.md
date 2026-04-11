@@ -159,36 +159,41 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 
 ---
 
-## 📊 GitHub Stats
-![Martian58's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martian56&show_icons=true&theme=dark)
+# 📊 GitHub Stats
 
+## 🔥 Streak Stats
+![](https://streak-stats.demolab.com?user=martian56&theme=dark&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=martian56&theme=dark)](https://git.io/streak-stats)
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=martian56&theme=github-dark&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=martian56&theme=github-dark)
+## 📌 Profile Summary Cards
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=martian56&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martian56&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=martian56&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=martian56&theme=github_dark)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=martian56&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=martian56&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martian56&theme=github_dark&utcOffset=4)
 
 ---
 
 ## 🧑‍💻 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/martian58.png" alt="TryHackMe Badge">
+![](https://tryhackme-badges.s3.amazonaws.com/martian58.png)
 
 ---
 
 ## ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martian58) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martian58)
+## 🌐 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martian58)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martian58)
 
 ---
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
 
