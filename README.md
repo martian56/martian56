@@ -4,7 +4,6 @@ Hi, I’m **@martian56**! 👋
 I'm a University student majoring in **Computer Science** with a deep passion for **programming** and **cybersecurity**.
 
 
----
 ![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
 
 ## 🛠️ Tech Stack
@@ -19,7 +18,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
----
 
 ## ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -34,7 +32,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Oracle Cloud](https://img.shields.io/badge/OracleCloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBMCloud-%23000000.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
----
 
 ## ⚡ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -52,7 +49,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%232C3E50.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
----
 
 ## 🗄️ Databases & Servers
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
@@ -78,7 +74,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Supabase](https://img.shields.io/badge/Supabase-%2300B4DB.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![OrientDB](https://img.shields.io/badge/OrientDB-%230073A1.svg?style=for-the-badge&logo=orientdb&logoColor=white)
 
----
 
 ## 🤖 Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
@@ -88,7 +83,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
----
 
 ## ⚙️ DevOps & Tools
 
@@ -157,7 +151,6 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Railway](https://img.shields.io/badge/Railway-8257E5.svg?style=for-the-badge&logo=railway&logoColor=white)
 
 
----
 
 # 📊 GitHub Stats
 
@@ -175,24 +168,20 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=martian56&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=martian56&theme=github_dark&utcOffset=4)
 
----
 
 ## 🧑‍💻 TryHackMe
 ![](https://tryhackme-badges.s3.amazonaws.com/martian58.png)
 
----
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 
 ## 🌐 Connect With Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/martian58)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martian58)
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
 
