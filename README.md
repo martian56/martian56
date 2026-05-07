@@ -7,6 +7,7 @@ I'm a University student majoring in **Computer Science** with a deep passion fo
 ![Profile Views](https://komarev.com/ghpvc/?username=martian58&color=blue&style=for-the-badge)
 
 [![committers.top badge](https://user-badge.committers.top/azerbaijan/martian56.svg)](https://user-badge.committers.top/azerbaijan/martian56)
+[![committers.top badge](https://user-badge.committers.top/azerbaijan_private/martian56.svg)](https://user-badge.committers.top/azerbaijan_private/martian56)
 
 
 ## 🛠️ Tech Stack
